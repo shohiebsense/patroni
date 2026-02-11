@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: app-db-external
+  namespace: db
+spec:
+  type: NodePort
+  selector:
+    application: spilo
+    cluster-name: app-db
+    spilo-role: master
+  ports:
+    - port: 5432
+      targetPort: 5432
+      nodePort: 30432 

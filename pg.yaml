@@ -1,0 +1,36 @@
+apiVersion: "acid.zalan.do/v1"
+kind: postgresql
+metadata:
+  name: app-db
+  namespace: db
+spec:
+  teamId: "app"
+  postgresql:
+    version: "15"
+  numberOfInstances: 2
+  volume:
+    size: 10Gi
+    storageClass: local-storage
+  users:
+    app_user:
+      - superuser
+      - createdb
+  databases:
+    app_db: app_user
+  resources:
+    requests:
+      cpu: "200m"
+      memory: "512Mi"
+    limits:
+      cpu: "1"
+      memory: "2Gi"
+  patroni:
+    pg_hba:
+      - local replication standby trust
+      - host replication standby 10.0.0.0/8 md5
+      - host replication standby 192.168.0.0/16 md5
+      - host replication standby 127.0.0.1/32 md5
+      - local all all trust
+      - hostssl all all 127.0.0.1/32 md5
+      - hostssl all all ::1/128 md5
+      - host all all 0.0.0.0/0 md5

@@ -1,0 +1,117 @@
+[?1049h[22;0;0t[?1h=                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[7m(END)[27m[K[H[2J[H[H[2J[H                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[7m(END)[27m[K[H[2J[H[H[2J[H                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[H[2J[H[H[2J[H                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[H[2J[H[H[2J[H                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[H[2J[H[H[2J[H                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[H[2J[H[H[2J[H                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[H[2J[H[H[2J[H                                                     List of databases
+   Name    |  Owner   | Encoding | Locale Provider |   Collate   |    Ctype    |  Locale | ICU Rules |   Access privileges   
+-----------+----------+----------+-----------------+-------------+-------------+ --------+-----------+-----------------------
+ app_db    | app_user | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ postgres  | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | 
+ template0 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+ template1 | postgres | UTF8     | libc            | en_US.utf-8 | en_US.utf-8 |         |           | =c/postgres          +
+           |          |          |                 |             |             |         |           | postgres=CTc/postgres
+(4 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K

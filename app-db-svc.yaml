@@ -1,0 +1,34 @@
+apiVersion: v1
+kind: Service
+metadata:
+  creationTimestamp: "2026-02-10T06:02:14Z"
+  labels:
+    application: spilo
+    cluster-name: app-db
+    spilo-role: master
+    team: app
+  name: app-db
+  namespace: db
+  resourceVersion: "3276"
+  uid: d7dcf663-286e-454c-a33e-b3519a913612
+spec:
+  selector:
+    application: spilo
+    cluster-name: app-db
+    spilo-role: master
+  clusterIP: 10.97.114.147
+  clusterIPs:
+  - 10.97.114.147
+  internalTrafficPolicy: Cluster
+  ipFamilies:
+  - IPv4
+  ipFamilyPolicy: SingleStack
+  ports:
+  - name: postgresql
+    port: 5432
+    protocol: TCP
+    targetPort: 5432
+  sessionAffinity: None
+  type: ClusterIP
+status:
+  loadBalancer: {}
